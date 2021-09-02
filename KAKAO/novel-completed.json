@@ -1,0 +1,1059 @@
+{
+	"data": [{
+		"id": "5ff355a6d5d81e6df5bd844a",
+		"title": "완결",
+		"module": "COMPLETED",
+		"placement": "novel_completed",
+		"tag": "novel_finish_genre",
+		"cardGroups": [{
+			"cards": [{
+				"id": "60e413685c967c09c5ad24f6",
+				"key": "612f38a748fc245bde9383b8-60e413685c967c09c5ad24f6",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_000", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_001", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_002", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_003", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_004", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_005", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_006", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_007", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_008", "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_009"],
+					"catchphraseTwoLines": "9년간 늘 함께했던 그녀가 어느날\n부회장에게 던진 핵 대미지급 폭탄선언",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2307/bg/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26",
+					"channel": "two",
+					"completedDateTime": "2018-09-18T15:00:00Z",
+					"title": "김 비서가 왜 그럴까",
+					"titleImageAHeight": 132,
+					"seoKeywords": ["#웃기는", "#설레는", "#로맨스", "#오피스물"],
+					"anchorClip": {
+						"type": "LOOP",
+						"clipUrl": "https://kr-a.kakaopagecdn.com/P/C/2307/aclip/39a6d8ea-b86e-48f4-a5f1-c325bd233243",
+						"clipFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2307/aclip/2x/39a6d8ea-b86e-48f4-a5f1-c325bd233243_f~os",
+						"clipLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2307/aclip/2x/39a6d8ea-b86e-48f4-a5f1-c325bd233243_f~os"
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": {
+						"title": "김 비서가 왜 그럴까",
+						"subtitle": "김명미, 정경윤",
+						"verticalVideo": "https://kr-a.kakaopagecdn.com/P/C/2307/ip1/2636257b-fa91-4e28-938f-f04eedb3d574",
+						"horizontalVideo": "https://kr-a.kakaopagecdn.com/P/C/2307/ip2/ec321a14-cb14-41d6-8364-1e752d92718d"
+					},
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2307/c1/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2307,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2307/c1a/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2307/c2/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26",
+					"seoId": "김-비서가-왜-그럴까",
+					"rest": false,
+					"backgroundColor": "#2e2418",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2307/t1/2x/25a5da0e-328a-4965-b368-a9043dc77405",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2307/t2/2x/550e43b4-0557-437f-8618-5a85aad5c90e",
+					"videoClips": [],
+					"synopsis": "천상천하유아독존, 신이 빚어낸 마스터피스, 이 세상 내 맘대로 안 되는 건 없는 유일그룹 부회장.'이영준’.\n9년 동안 그런 이영준의 옆에서 개인, 수행, 의전비서, 때로는 운전기사, 또 때로는 파티 파트너까지 모두 소화했던 능력 만점 외모 만점, 비서계의 명장, ‘김미소. \n환상의 콤비로 9년 간 함께 했던 두 사람이건만, 어느 날 갑자기 던져진 김 비서의 폭탄선언! \n\"저, 이제 그만두려고요!” 대체 왜?? \n대체 김 비서가 왜 그러지?",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/2307/c1a/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26",
+					"catchphraseThreeLines": "9년간 함께했던 그녀가\n어느날 부회장에게 던진\n핵 대미지급 폭탄선언",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2307/c1a/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26_f~os",
+					"lastEpisodeSerialStartDateTime": "2018-09-19T00:00:26Z",
+					"lastEpisodePublicationDateTime": "2018-09-19T00:00:26Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2307/lt/2x/c6b197d3-ae47-4ab7-9ff8-c648b82c1a26",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "김명미",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "김명미",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "정경윤",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "YJ코믹스",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": true,
+					"labelBackgroundColor": "#ff3042",
+					"mediaType": "clip",
+					"label": "레전드",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413665c967c09c5ad24ae",
+				"key": "612f38a748fc245bde9383b8-60e413665c967c09c5ad24ae",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_000", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_001", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_002", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_003", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_004", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_005", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_006", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_007", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_008", "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67_009"],
+					"catchphraseTwoLines": "친구 대타로 나간 선자리.\n이 존잘 맞선남이 우리 회사 사장?!",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2054/bg/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"channel": "two",
+					"completedDateTime": "2020-12-25T00:00:00Z",
+					"title": "사내 맞선",
+					"titleImageAHeight": 68,
+					"seoKeywords": ["#설레는", "#발랄한", "#로맨스", "#오피스물"],
+					"anchorClip": {
+						"type": "LOOP",
+						"clipUrl": "https://kr-a.kakaopagecdn.com/P/C/2054/aclip/7bd2334f-ba5a-4b33-80d2-44ba586ae781",
+						"clipFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2054/aclip/2x/7bd2334f-ba5a-4b33-80d2-44ba586ae781_f~os",
+						"clipLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2054/aclip/2x/7bd2334f-ba5a-4b33-80d2-44ba586ae781_f~os"
+					},
+					"ageLimit": 15,
+					"ipPromotionVideo": {
+						"title": "사내 맞선",
+						"subtitle": "들깨, NARAK, 해화",
+						"verticalVideo": "https://kr-a.kakaopagecdn.com/P/C/2054/ip1/2dee69d3-a4df-4496-82ba-6a701a83f176",
+						"horizontalVideo": "https://kr-a.kakaopagecdn.com/P/C/2054/ip2/42560eb6-c56c-4ca8-aac9-7e59af64a656"
+					},
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2054/c1/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2054,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2054/c1a/2x/052d60c4-29e4-4319-b564-999c33c7df67_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2054/c2/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"seoId": "사내-맞선",
+					"rest": false,
+					"backgroundColor": "#362d41",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2054/t1/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2054/t2/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"videoClips": [],
+					"synopsis": "친구를 대신해 나간 맞선 자리.\n목표는 차이는 것!\n컨셉은 남녀 가리지 않는 섹시 팜므 파탈!\n \n“강태무 씨 하시는 일은 뭐예요?”\n“성운기업에 다니고 있습니다.”\n“어머! 성운기업? 거긴 잘 알죠. 왜냐하면….”\n \n우리 회사니까!!!!!!!!\n \n내가 어쩌다가 우리 회사 사장님과 맞선을 본 거야ㅠㅠ\n게다가 이 사장님은 왜 다짜고짜 결혼하자고 하는데?!!!\n \n거짓말 극혐하기로 유명한 사장님.\n정체를 들키는 순간… 바로 해고닷!\n(하지만 난… 회사 대출금이 있다고ㅠㅠ)\n \n과연 신하리는 무사히 회사를 다닐 수 있을 것인가?!\n스릴 가득(?) 오피스 로맨스 <사내 맞선>",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/2054/c1a/052d60c4-29e4-4319-b564-999c33c7df67",
+					"catchphraseThreeLines": "대타로 나간 선자리.\n맞선남이 우리 회사 \n사장?! 나 어떡해!!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2054/c1a/2x/052d60c4-29e4-4319-b564-999c33c7df67_f~os",
+					"lastEpisodeSerialStartDateTime": "2020-12-25T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2020-12-25T00:00:00Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2054/lt/2x/052d60c4-29e4-4319-b564-999c33c7df67",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "들깨",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "NARAK",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "해화",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "연담",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e4136a5c967c09c5ad2597",
+				"key": "612f38a748fc245bde9383b8-60e4136a5c967c09c5ad2597",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_000", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_001", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_002", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_003", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_004", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_005", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_006", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_007", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_008", "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399_009"],
+					"catchphraseTwoLines": "고수와 격돌, 궁극의 무를 좇는 묵향\n전설적인 일대기의 서막이 다시 열린다",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2468/bg/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"channel": "two",
+					"completedDateTime": "2021-08-12T15:00:00Z",
+					"title": "묵향 디 오리진",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#압도되는", "#역동적인", "#액션/무협", "#성공성장물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2468/c1/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2468,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2468/c2/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"seoId": "묵향-디-오리진",
+					"rest": false,
+					"backgroundColor": "#141c23",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2468/t1/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2468/t2/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"videoClips": [],
+					"synopsis": "수많은 세력이 패권을 다투던 드넓은 중원의 무림. 어릴 적 마교에 납치되어 암살자로 훈련받은 2044호. 고된 훈련 속에서 목숨의 위협을 넘어 치열하게 살아남은 그는 실력을 인정받아 ‘묵향’이란 이름을 얻는다.\n그러나 묵향에게는 언제나 채워지지 않는 갈증이 있었으니, 그것은 바로 검의 길! 암살자로 사는 삶에 만족하지 못하던 그때, 묵향은 스승 ‘환사검 유백’을 만나 인생의 큰 변화를 맞이하는데! 그는 자신이 좇던 탈마의 경지에 올라 무공의 정점에 오를 수 있을까?!\n\n수많은 고수와 격돌하며 궁극의 무를 좇는 묵향!\n전설적인 일대기의 서막이 다시 열린다!!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "궁극의 무를 좇는 묵향\n전설적인 일대기의\n서막이 다시 열린다!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2021-08-12T13:00:00Z",
+					"lastEpisodePublicationDateTime": "2021-08-12T13:00:26Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2468/lt/2x/91dd9c92-543e-4e0d-9661-be1136ff0399",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "REDZIN",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "Silva(REDICE STUDIO)",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "전동조",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "HAKSAN",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413695c967c09c5ad256c",
+				"key": "612f38a748fc245bde9383b8-60e413695c967c09c5ad256c",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_000", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_001", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_002", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_003", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_004", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_005", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_006", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_007", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_008", "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea_009"],
+					"catchphraseTwoLines": "30인으로 구성된 군림단의 \n단주가 되기 위한 용연의 성장기",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2425/bg/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"channel": "two",
+					"completedDateTime": "2021-07-17T15:00:00Z",
+					"title": "군림단주",
+					"titleImageAHeight": 66,
+					"seoKeywords": ["#몰입되는", "#궁금하게 하는", "#액션/무협", "#성공성장물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": false,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2425/c1/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"serialStartDateTime": "2020-10-03T15:00:00Z",
+					"id": 2425,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2425/c2/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"seoId": "군림단주",
+					"rest": false,
+					"backgroundColor": "#3c3433",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2425/t1/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2425/t2/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"videoClips": [],
+					"synopsis": "첫째, 영광스러운 순간에만 군림단의 이름을 입에 올려야 한다. 첫째, 임무는 직속 선임의 재량으로 선택된다. 첫째, 모든 군림 단원의 목표는 군림 단주다. 그것으로 갓 군림단에 들어온 용연의 목표가 정해졌다. 바로 군림 단주!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "30인의 군림단의 \n단주가 되기 위한 \n용연의 성장기",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2021-07-18T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2021-07-18T00:00:22Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2425/lt/2x/2ddb662c-834e-44a9-92f8-d450808403ea",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "박충식",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "박충식",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "일륜",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "케나즈",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": false,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413695c967c09c5ad2558",
+				"key": "612f38a748fc245bde9383b8-60e413695c967c09c5ad2558",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_000", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_001", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_002", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_003", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_004", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_005", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_006", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_007", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_008", "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98_009"],
+					"catchphraseTwoLines": "\"당신들 다 부숴버리겠어\" \n회귀한 엘레나는 복수를 결심했다.",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2405/bg/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"channel": "two",
+					"completedDateTime": "2021-06-27T15:00:00Z",
+					"title": "그림자 황비",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#긴장감 있는", "#통쾌한", "#로맨스 판타지", "#복수물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2405/c1/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2405,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2405/c1a/2x/ee5c446e-6b80-4393-a36f-ca77ff2dff17_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2405/c2/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"seoId": "그림자-황비",
+					"rest": false,
+					"backgroundColor": "#1e2f2d",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2405/t1/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2405/t2/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"videoClips": [],
+					"synopsis": "\"내 딸이 되어줄 수 있겠느냐?\"\n \n프란체 대공의 제안으로 가짜 딸이 된 엘레나. \n황비가 되어 황태자의 아들을 낳고 입지를 다지는데,\n죽은 줄 알았던 베로니카 공녀가 눈앞에 나타난다.\n \n그녀는 인형에 불과했다\n결국 엘레나는 아이를 빼앗기고 죽임을 당하는데…….\n \n그런데,\n다시 과거로 돌아왔다.\n \n\"당신들 다 부숴버리겠어.\"\n \n다시는 인형으로 살지 않으리라\n엘레나는 복수를 결심했다.",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/2405/c1a/ee5c446e-6b80-4393-a36f-ca77ff2dff17",
+					"catchphraseThreeLines": "당신들 다 부숴버리겠어\n회귀한 엘레나는 \n복수를 결심했다.",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2405/c1a/2x/ee5c446e-6b80-4393-a36f-ca77ff2dff17_f~os",
+					"lastEpisodeSerialStartDateTime": "2021-06-28T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2021-06-28T00:00:30Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2405/lt/2x/c3fd593f-03e9-4479-8cd4-fc9b56433b98",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "킨립",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "킨립",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "하율",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "kwbooks",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413685c967c09c5ad2514",
+				"key": "612f38a748fc245bde9383b8-60e413685c967c09c5ad2514",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_000", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_001", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_002", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_003", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_004", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_005", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_006", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_007", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_008", "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f_009"],
+					"catchphraseTwoLines": "나 전생에\n대마도사 크라투라스였잖아!",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2337/bg/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"channel": "two",
+					"completedDateTime": "2021-06-04T15:00:00Z",
+					"title": "나는 마도왕이다",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#몰입되는", "#역동적인", "#학원/판타지", "#레벨업물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": false,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2337/c1/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"serialStartDateTime": "2019-05-30T15:00:00Z",
+					"id": 2337,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2337/c2/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"seoId": "나는-마도왕이다",
+					"rest": false,
+					"backgroundColor": "#666951",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2337/t1/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2337/t2/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"videoClips": [],
+					"synopsis": "10년 전, 차원이 비틀리며 몬스터가 쏟아져 나왔다.\n동시에 생겨난 초능력 각성자들이 몬스터를 잡으며 대세가 되는데...\n \n성훈은 한 달에 네 번, 어머니의 병원비를 마련하기 위해\n각성자의 사냥을 돕고, 뒤처리하는 위험천만한 '짐꾼'으로 활동한다.\n \n그러던 중 몬스터에게 큰 부상을 입고 전생을 기억하게 되는데...\n \n\"어라, 나 죽었나?\"\n \n \"나 전생에 대마도사 크라투라스였잖아!!!\"\n \n 전생의 기억을 가진 성훈의 갑질 마법이 시작된다!!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "어라, 나 죽었나?\n나 전생에\n대마도사였잖아!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2021-06-05T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2021-06-05T00:00:32Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2337/lt/2x/57306b6e-028d-47b7-b56b-56ee051de41f",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "miro",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "miro",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "데카스펠",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "고렘팩토리",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": false,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413645c967c09c5ad2413",
+				"key": "612f38a748fc245bde9383b8-60e413645c967c09c5ad2413",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_000", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_001", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_002", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_003", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_004", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_005", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_006", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_007", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_008", "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78_009"],
+					"catchphraseTwoLines": "아제프의 운명을 바꾸려는 엘제이.\n모든 것을 걸어서라도 구원하겠어!",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/1654/bg/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"channel": "two",
+					"completedDateTime": "2021-05-08T00:00:00Z",
+					"title": "악역의 구원자",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#설레는", "#처절한", "#로맨스 판타지", "#빙의물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 15,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/1654/c1/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 1654,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/1654/c1a/2x/1ad1779a-fefd-43da-918c-8f6ca9779708_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/1654/c2/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"seoId": "악역의-구원자",
+					"rest": false,
+					"backgroundColor": "#236eb6",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/1654/t1/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/1654/t2/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"videoClips": [],
+					"synopsis": "모든 것을 걸어서라도 악역인 아제프의 운명을 바꾸겠노라 다짐한 여자, 엘제이. 자신 문장의 비밀을 숨기고, 그를 구원할 수 있을까?",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/1654/c1a/1ad1779a-fefd-43da-918c-8f6ca9779708",
+					"catchphraseThreeLines": "모든 것을 걸어서라도\n당신의 운명을 바꾸고\n구원하겠어",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/1654/c1a/2x/1ad1779a-fefd-43da-918c-8f6ca9779708_f~os",
+					"lastEpisodeSerialStartDateTime": "2021-05-08T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2021-05-08T00:00:00Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/1654/lt/2x/741ca309-0fdc-4534-8ccc-34a0d58d1b78",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "명랑",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "잿슨",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "연슬아",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "카카오웹툰 스튜디오",
+						"type": "PUBLISHER",
+						"order": 4
+					}, {
+						"name": "투유드림",
+						"type": "PUBLISHER",
+						"order": 5
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413685c967c09c5ad2501",
+				"key": "612f38a748fc245bde9383b8-60e413685c967c09c5ad2501",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_000", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_001", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_002", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_003", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_004", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_005", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_006", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_007", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_008", "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc_009"],
+					"catchphraseTwoLines": "사랑하는 사람들과 행복해지기 위해,\n나는 희대의 악녀가 된다.",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2318/bg/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"channel": "two",
+					"completedDateTime": "2021-04-15T15:00:00Z",
+					"title": "악녀의 정의",
+					"titleImageAHeight": 120,
+					"seoKeywords": ["#발랄한", "#통쾌한", "#로맨스 판타지", "#빙의물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": false,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2318/c1/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"serialStartDateTime": "2018-01-30T15:00:00Z",
+					"id": 2318,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2318/c2/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"seoId": "악녀의-정의",
+					"rest": false,
+					"backgroundColor": "#706457",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2318/t1/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2318/t2/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"videoClips": [],
+					"synopsis": "“난 이미 내 황후를 정했고, 넌 구색 맞추기일 뿐이야.”\n“바로 내가 제국의 황후가 될 거예요.”\n \n가장 친한 친구에게 남자친구를 뺏긴 날, \n나는 실수로 한강에 빠지고 말았다.\n그리고 눈떠 보니 악녀로 이름난 공작영애 \n샤르티아나 알티제 카일론이 되어 있었다!\n \n알고 보니 이 샤르티아나 영애,\n황태자를 그 연인에게서 가로채려 했다고 한다.\n그런 악녀 따위는 절대로 되지 않을 거라고 다짐하고 싶지만…… \n차기 황후 후보, ‘레지나’로 간택되는 순간 내 운명도 결정되었다.\n \n레지나 후보는 둘, 나 샤르티아나와 황태자의 연인 아이린.\n모략이 휘몰아치는 궁정에서 사랑하는 가족을 지키기 위해\n철저한 악녀가 되어 황후의 자리를 쟁취할 수밖에 없다.\n그런데 현실을 받아들이기로 결심한 순간, \n차갑기만 했던 황태자 레오프리드가 다른 얼굴을 보이기 시작한다.\n그리고 아이린과의 관계에도 무언가 비밀이……?\n \n사랑하는 사람들과 행복해지기 위해, 나는 희대의 악녀가 된다.\n \n달콤살벌한 궁중 로맨스의 새로운 정의!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "사랑하는 이들을 위해,\n희대의 악녀가 된다.\n로판의 새로운 정의!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2021-04-18T00:00:16Z",
+					"lastEpisodePublicationDateTime": "2021-04-18T00:00:16Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2318/lt/2x/66519591-40ce-43c1-ac3c-caee7c1f9dcc",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "윤쓰(REDICE STUDIO)",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "민(REDICE STUDIO)",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "주해온",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "디앤씨웹툰비즈",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": false,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413685c967c09c5ad24fd",
+				"key": "612f38a748fc245bde9383b8-60e413685c967c09c5ad24fd",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_000", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_001", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_002", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_003", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_004", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_005", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_006", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_007", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_008", "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6_009"],
+					"catchphraseTwoLines": "6개월만 약혼자 흉내를 내주신다면\n그 후에는, 깨끗이 사라져 드리죠.",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2314/bg/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"channel": "two",
+					"completedDateTime": "2021-03-21T15:00:00Z",
+					"title": "그녀가 공작저로 가야 했던 사정",
+					"titleImageAHeight": 168,
+					"seoKeywords": ["#발랄한", "#설레는", "#로맨스 판타지", "#빙의물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2314/c1/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2314,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2314/c2/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"seoId": "그녀가-공작저로-가야-했던-사정",
+					"rest": false,
+					"backgroundColor": "#6f405f",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2314/t1/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2314/t2/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"videoClips": [],
+					"synopsis": "의문의 사망 이후, 소설 속으로 빙의하게 된 재수생 박은하.\n 하지만 그녀가 빙의한 인물은 주인공도 아닌 약혼자에게 독살당해 죽는 엑스트라, 레리아나 맥밀런?!\n \n 그녀가 살아남을 유일한 길은 약혼자와의 파혼뿐!\n 레리아나(=박은하)는 소설 남주, 노아 윈나이트에게 계약 약혼을 청하게 되는데….\n \n “단 6개월만 약혼자 흉내를 내주신다면 그 후에는, 공작님 인생에서 깨끗이 사라져 드리죠.”\n “좋아. 대신 내가 필요할 때에는 꼭 내 약혼녀로서의 역할을 해내 줘야겠어.”\n \n 그러나 노아 이 자식…….\n 천사 같은 얼굴 뒤에 까만 속내를 감춘 악마보다 더한 놈이었다?!\n \n 그녀는 죽음의 운명에서 벗어날 수 있을까?\n 냉혈 공작, 노아 윈나이트 X 당찬 빙의녀, 레리아나 맥밀런의 파란만장 로맨스 판타지!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "6개월만 약혼자 흉내를\n내주신다면 그 후에는,\n깨끗이 사라져 드리죠.",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2021-03-22T00:00:24Z",
+					"lastEpisodePublicationDateTime": "2021-03-22T00:00:24Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2314/lt/2x/96f71dd6-3c55-4f01-a9bf-6c81448381d6",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "밀차",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "고래",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "밀차",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "디앤씨웹툰비즈",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413685c967c09c5ad24ff",
+				"key": "612f38a748fc245bde9383b8-60e413685c967c09c5ad24ff",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_000", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_001", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_002", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_003", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_004", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_005", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_006", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_007", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_008", "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d_009"],
+					"catchphraseTwoLines": "황태자비 따위 절대로 되지 않아. \n나는 평생 의사의 삶을 살 운명이야!",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2316/bg/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"channel": "two",
+					"completedDateTime": "2021-02-15T15:00:00Z",
+					"title": "외과의사 엘리제",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#통쾌한", "#설레는", "#로맨스 판타지", "#환생물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": false,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2316/c1/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"serialStartDateTime": "2017-09-17T15:00:00Z",
+					"id": 2316,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2316/c1a/2x/54223572-0bcd-4d5e-adb0-03bc6be63397_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2316/c2/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"seoId": "외과의사-엘리제",
+					"rest": false,
+					"backgroundColor": "#3a5d88",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2316/t1/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2316/t2/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"videoClips": [],
+					"synopsis": "서울대 최연소 의대 교수 '송지현'! 지난 과거 삶의 잘못을 만회하기 위해 의사로서 최선을 다해 살고 있었는데, 태평양 한가운데 1만 미터 높이의 비행기에서 비상탈출을 해야 한다고?!! 아찔한 순간 모든 게 끝났다고 생각했는데… 어라? 눈을 떠보니 첫 번째 삶의 '엘리제'로 돌아왔다? \n \n첫 번째 삶의 '엘리제'는 패악했지만, 두 번째 삶의 '송지현'을 거쳐 다시 돌아온 '엘리제'는 달라! \n \n지난날의 과오를 갚기 위해 의사 '송지현'의 지식을 이용해 의사로서 새로운 삶을 살게 된 '엘리제'! 그녀의 세 번째 삶은 과연...?",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/2316/c1a/54223572-0bcd-4d5e-adb0-03bc6be63397",
+					"catchphraseThreeLines": "황태자비 따위\n절대로 되지 않아. \n의사의 삶을 살겠어!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2316/c1a/2x/54223572-0bcd-4d5e-adb0-03bc6be63397_f~os",
+					"lastEpisodeSerialStartDateTime": "2021-02-16T00:00:19Z",
+					"lastEpisodePublicationDateTime": "2021-02-16T00:00:19Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2316/lt/2x/f6532710-2c2f-4721-bb5c-75f22232986d",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "mini",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "mini",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "유인",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "kidaristudio",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": false,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413665c967c09c5ad24b7",
+				"key": "612f38a748fc245bde9383b8-60e413665c967c09c5ad24b7",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_000", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_001", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_002", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_003", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_004", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_005", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_006", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_007", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_008", "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_009"],
+					"catchphraseTwoLines": "톱 스타 오윤서의 \n위장 취업 로펌 로맨스",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/2082/bg/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"channel": "two",
+					"completedDateTime": "2020-12-19T00:00:00Z",
+					"title": "진심이 닿다",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#발랄한", "#귀여운", "#로맨스", "#오피스물"],
+					"anchorClip": {
+						"type": "LOOP",
+						"clipUrl": null,
+						"clipFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2082/aclip/2x/218ffcca-7b11-46fc-a816-21c970bc6c0f_f~os",
+						"clipLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2082/aclip/2x/218ffcca-7b11-46fc-a816-21c970bc6c0f_f~os"
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": {
+						"title": "진심이 닿다",
+						"subtitle": "앤트스튜디오, 예거",
+						"verticalVideo": "https://kr-a.kakaopagecdn.com/P/C/2082/ip1/03c9de58-3bb5-45c2-a024-2cc1c0219eac",
+						"horizontalVideo": "https://kr-a.kakaopagecdn.com/P/C/2082/ip2/9b4d6f53-a464-4432-a45b-f301415a5532"
+					},
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/2082/c1/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 2082,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/2082/c1a/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/2082/c2/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"seoId": "진심이-닿다",
+					"rest": false,
+					"backgroundColor": "#3c427a",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/2082/t1/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/2082/t2/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"videoClips": [],
+					"synopsis": "자타공인 대한민국 최고 톱스타, 오윤서(본명 : 오진심!)\n \n한창 잘나가던 그때, 재벌3세와의 루머로 강제 은퇴한 그녀는\n유명 작가의 차기작 드라마로 화려한 복귀를 노린다.\n \n “제가 작가님의 페르소나가 되기 위해 뭘 하면 될까요?!”\n “로펌 비서 메. 소. 드. 연기.”\n \n이런이런, 미모-몸매-지성 모두 다 갖춘 그녀에게\n신이 단 하나 허락치 않은 것이 바로, 연기력.\n \n결국 윤서는 퍼펙트한 비서(…역의 연기자)로 다시 태어나기 위해\n유명 변호사 권정록과 함께 일하게 된다.\n \n그렇게 만인의 연인 ‘오윤서’를 비서로 맞이한 권 변호사의 소감은?\n \n “전 오진심 씨, 필요 없습니다.”\n “오진심이 아니라, 오윤서라고요-!”\n \n싸가지는 애저녁에 쌈 싸 먹은 권정록 밑에서 오진심, 아니 오윤서는\n6개월을 존버할 수 있을 것인가!\n \n고소와 고백이 오가는 로펌 오피스 로맨스♥︎ <진심이 닿다>",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/2082/c1a/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"catchphraseThreeLines": "톱 스타 오윤서의\n고소와 고백이 오가는 \n로펌 오피스 로맨스",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/2082/c1a/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6_f~os",
+					"lastEpisodeSerialStartDateTime": "2020-12-18T10:14:59Z",
+					"lastEpisodePublicationDateTime": "2020-12-18T10:14:59Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/2082/lt/2x/9e8126dd-5a54-4b42-b4d9-5846e5a56da6",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "앤트스튜디오",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "앤트스튜디오",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "예거",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "연담",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413615c967c09c5ad23b1",
+				"key": "612f38a748fc245bde9383b8-60e413615c967c09c5ad23b1",
+				"content": {
+					"lookThroughImages": null,
+					"catchphraseTwoLines": "좀비들이 들끓는 세상. \n7년의 꿈을 뛰어넘어 미래를 구하라.",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/1396/bg/2x/b7633ae9-b909-4431-8420-95d1ff3f4b71",
+					"channel": "two",
+					"completedDateTime": "2020-07-28T00:00:00Z",
+					"title": "드림사이드",
+					"titleImageAHeight": 68,
+					"seoKeywords": ["#미스테리한", "#궁금하게 하는", "#공포/스릴러", "#재난물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/1396/c1/2x/b7633ae9-b909-4431-8420-95d1ff3f4b71",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 1396,
+					"featuredCharacterAnimationLastFrame": null,
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/1396/c2/2x/b7633ae9-b909-4431-8420-95d1ff3f4b71",
+					"seoId": "드림사이드",
+					"rest": false,
+					"backgroundColor": "#2a1a19",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/1396/t1/2x/b7633ae9-b909-4431-8420-95d1ff3f4b71",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/1396/t2/2x/b7633ae9-b909-4431-8420-95d1ff3f4b71",
+					"videoClips": [],
+					"synopsis": "시골의사의 아들 남하진,\n어느날 좀비가 들끓는 악몽을 꾸고 난 후,\n꿈에서 만난 소녀가 전학오게 되는 데.\n7년의 시간을 꿈으로 오가며\n과거와 미래를 뛰어넘어 세계를 구하라!",
+					"featuredCharacterAnimation": null,
+					"catchphraseThreeLines": "꿈을 꾸면 7년 후\n좀비들이 들끓는 세상.\n미래를 구하라.",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": null,
+					"lastEpisodeSerialStartDateTime": "2020-07-28T00:00:00Z",
+					"lastEpisodePublicationDateTime": "2020-07-28T00:00:00Z",
+					"decorationImage": null,
+					"lookThroughImage": null,
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "홍정훈",
+						"type": "AUTHOR",
+						"order": 1
+					}, {
+						"name": "신월",
+						"type": "ILLUSTRATOR",
+						"order": 2
+					}, {
+						"name": "홍정훈",
+						"type": "ORIGINAL_STORY",
+						"order": 3
+					}, {
+						"name": "HK북스",
+						"type": "PUBLISHER",
+						"order": 4
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413615c967c09c5ad23b3",
+				"key": "612f38a748fc245bde9383b8-60e413615c967c09c5ad23b3",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_000", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_001", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_002", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_003", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_004", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_005", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_006", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_007", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_008", "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_009"],
+					"catchphraseTwoLines": "인간 종족의 이단아가 되어 \n암흑 진영을 지배한다!",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/1399/bg/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"channel": "two",
+					"completedDateTime": "2017-11-17T00:00:00Z",
+					"title": "더스크 하울러",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#개성있는", "#몰입되는", "#학원/판타지", "#성공성장물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/1399/c1/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 1399,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/1399/c1a/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/1399/c2/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"seoId": "더스크-하울러",
+					"rest": false,
+					"backgroundColor": "#281a2d",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/1399/t1/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/1399/t2/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"videoClips": [],
+					"synopsis": "소심한 성격을 극복하기 위해 밸런스 막장으로\n소문난 게임 '트리키아'에 뛰어들었다!\n어떤 상황에서도 주문을 외는 강철 주둥이!\n인간 종족의 이단아가 되어 암흑 진영을 지배한다!",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/1399/c1a/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"catchphraseThreeLines": "인간 종족의 \n이단아가 되어 \n암흑 진영을 지배한다!",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/1399/c1a/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74_f~os",
+					"lastEpisodeSerialStartDateTime": "2017-11-17T09:39:12Z",
+					"lastEpisodePublicationDateTime": "2017-11-17T09:39:12Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/1399/lt/2x/7371e85f-77d0-4ffa-8bb6-baad3c149f74",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "크루",
+						"type": "ILLUSTRATOR",
+						"order": 1
+					}, {
+						"name": "태선",
+						"type": "ORIGINAL_STORY",
+						"order": 2
+					}, {
+						"name": "드림툰",
+						"type": "PUBLISHER",
+						"order": 3
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}, {
+				"id": "60e413615c967c09c5ad23ac",
+				"key": "612f38a748fc245bde9383b8-60e413615c967c09c5ad23ac",
+				"content": {
+					"lookThroughImages": ["https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_000", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_001", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_002", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_003", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_004", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_005", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_006", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_007", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_008", "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_009"],
+					"catchphraseTwoLines": "느긋하면서도 강렬하게.\n가슴에 담기는 본격 로맨스",
+					"backgroundImage": "https://kr-a.kakaopagecdn.com/P/C/1388/bg/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"channel": "two",
+					"completedDateTime": "2017-09-22T00:00:00Z",
+					"title": "애완견의 법칙",
+					"titleImageAHeight": 128,
+					"seoKeywords": ["#따뜻한", "#분노유발", "#로맨스", "#치정물"],
+					"anchorClip": {
+						"type": null,
+						"clipUrl": null,
+						"clipFirstFrame": null,
+						"clipLastFrame": null
+					},
+					"ageLimit": 0,
+					"ipPromotionVideo": null,
+					"newContent": true,
+					"serialRestartDateTime": null,
+					"featuredCharacterImageA": "https://kr-a.kakaopagecdn.com/P/C/1388/c1/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"serialStartDateTime": "2021-07-30T15:00:00Z",
+					"id": 1388,
+					"featuredCharacterAnimationLastFrame": "https://kr-a.kakaopagecdn.com/P/C/1388/c1a/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_l~os",
+					"featuredCharacterImageB": "https://kr-a.kakaopagecdn.com/P/C/1388/c2/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"seoId": "애완견의-법칙",
+					"rest": false,
+					"backgroundColor": "#e45850",
+					"upContent": false,
+					"titleImageA": "https://kr-a.kakaopagecdn.com/P/C/1388/t1/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"titleImageB": "https://kr-a.kakaopagecdn.com/P/C/1388/t2/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"videoClips": [],
+					"synopsis": "성운 출판사에는 미친개가 있다.\n변화 없는 표정, 높낮이 없는 음성, 차갑고 어두운 눈빛과\n까다로운 성격을 가진 성운 출판사 미친개 서우준.\n \n그런데 이 남자, 정말 미친개가 맞을까?\n \"태령 씨 안에 있는 불을 끄지 마세요.\n누군가 그 불을 끄게 놔두지도 말고요.\n태령 씨는 자신감을 가져도 되는 사람입니다.\"\n \n사랑에 치이고, 일에 치이고, 가족에게까지 치여 지친 태령은,\n미친개라기보다 애완견처럼\n부드럽고 다정하게 다가오는\n우준의 행동에 갈피를 잡을 수가 없어진다.\n충성스러운 도베르만 같기도 하고,\n귀여운 마르티스 같기도 한\n이 남자를 도대체 어찌 해야 할까?\n\n때로는 느긋하게, 때로는 강렬하게\n가슴에 담기는 본격 로맨스 <애완견의 법칙>",
+					"featuredCharacterAnimation": "https://kr-a.kakaopagecdn.com/P/C/1388/c1a/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"catchphraseThreeLines": "느긋하면서도 강렬하게\n가슴에 담기는 \n본격 로맨스",
+					"badges": [],
+					"featuredCharacterAnimationFirstFrame": "https://kr-a.kakaopagecdn.com/P/C/1388/c1a/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024_f~os",
+					"lastEpisodeSerialStartDateTime": "2017-09-22T10:16:19Z",
+					"lastEpisodePublicationDateTime": "2017-09-22T10:16:19Z",
+					"decorationImage": null,
+					"lookThroughImage": "https://kr-a.kakaopagecdn.com/P/C/1388/lt/2x/dbf66c8d-9677-48f9-8a4d-80d5f7832024",
+					"adult": false,
+					"webtoonType": "general",
+					"authors": [{
+						"name": "도담",
+						"type": "ILLUSTRATOR",
+						"order": 1
+					}, {
+						"name": "이현성",
+						"type": "ORIGINAL_STORY",
+						"order": 2
+					}, {
+						"name": "드림툰",
+						"type": "PUBLISHER",
+						"order": 3
+					}],
+					"status": "SELLING"
+				},
+				"additional": {
+					"new": true,
+					"rest": false,
+					"anchor": false,
+					"labelBackgroundColor": "#4095FF",
+					"mediaType": "image",
+					"label": "AI 추천",
+					"up": false,
+					"adult": false
+				}
+			}]
+		}]
+	}]
+}
